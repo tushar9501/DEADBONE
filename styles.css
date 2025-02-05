@@ -1,7 +1,7 @@
 /* ===== Variables & Reset ===== */
 :root {
   --font-primary: 'Poppins', sans-serif;
-  --color-bg: #222;
+  --color-bg: #ffffff;
   --color-navbar: #000;
   --color-text: #fff;
   --animation-float: float 2s infinite ease-in-out;
@@ -23,6 +23,7 @@ body {
   background-color: var(--color-navbar);
   width: 100%;
   padding: 10px 0;
+  border-radius: 0px  0px 30px 30px;
 }
 
 .nav-container {
